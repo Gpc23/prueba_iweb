@@ -1,1 +1,5 @@
-Conflicto??
+<<<<<<< HEAD
+Conflicto???
+=======
+Conflicto???
+>>>>>>> segunda
